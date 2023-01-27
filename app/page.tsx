@@ -1,8 +1,11 @@
+import InformationCard from "@/components/information-card/information-card.component"
+
 
 
 const HomePage = () => {
-    return <div>Hello HomePage</div>
-
+    return (
+        <InformationCard/>
+    )
 }
 
 export default HomePage

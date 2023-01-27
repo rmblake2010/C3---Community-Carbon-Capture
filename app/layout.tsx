@@ -1,4 +1,5 @@
 import React from "react"
+import '../styles/globals.css'
 import Navigation from "@/components/navigation/navigation.component"
 import Footer from "@/components/footer/footer.component"
 
