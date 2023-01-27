@@ -4,7 +4,11 @@ import InformationCard from "@/components/information-card/information-card.comp
 
 const HomePage = () => {
     return (
+    <div className="flex flex-col justify-between min-h-full">
         <InformationCard/>
+        <InformationCard/>
+        <InformationCard/>
+    </div>
     )
 }
 
